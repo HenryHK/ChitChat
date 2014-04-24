@@ -2,6 +2,8 @@ ChitChat
 
 ===
 
+![logo](logo.png)
+
 This app is my first app running on android platform.
 
 It use Wi-Fi's born group social nature and try to connect people through Wi-Fi network.
