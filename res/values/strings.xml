@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChitChat</string>
+    <string name="setting">Setting</string>
+    <string name="about">About</string>
+    <string name="headicontitle">Title：</string>
+    <string name="header">Profile</string>
+    <string name="set_dialog_title">Dialog</string>
+    <string name="nicke_name_label">Name:</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="current_online_label">Online</string>
+    <string name="send_file">Send file</string>
+    <string name="send_msg">Send Message</string>
+    <string name="pls_select_opr">Please select</string>
+    <string name="call_label">Voice call</string>
+    <string name="init_msg_count">{%1$d}</string>
+    <string name="send">Send</string>
+    <string name="file">File</string>
+    <string name="current_path_label">Current path: </string>
+    <string name="content_is_empty">Can\'t be empty</string>
+    <string name="waiting_for_receive_file">Waiting~</string>
+    <string name="be_sending_file">Sending~</string>
+    <string name="sending_file_to_you">Receiving~</string>
+    <string name="accept">Accept</string>
+    <string name="refuse">Decline</string>
+    <string name="close">Close</string>
+    <string name="select_file_for_send">Select file</string>
+    <string name="select_path_for_save">Select directory</string>
+    <string name="data_receive_error">Data error</string>
+    <string name="refuse_receive_file">Declined</string>
+    <string name="file_send_success">Success!</string>
+    <string name="file_receive_success">Success!</string>
+    <string name="folder_can_not_write">Not writtable</string>
+    <string name="ready_for_receive_file">Ready for receiving</string>
+    <string name="ready_for_send_file">Ready for sending</string>
+    <string name="start_to_receive_file">Receiving</string>
+    <string name="start_to_send_file">Sending</string>
+    <string name="talk_with">Talking with { %1$s }</string>
+    <string name="remote_talk_closed">Voice call closed</string>
+</resources>

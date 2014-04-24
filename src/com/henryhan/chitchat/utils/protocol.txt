@@ -1,0 +1,10 @@
+/**
+*About
+*/
+
+cmd
+1.	cmd     80       register user
+2.	cmd     81        message
+3.	cmd     82        transfering data
+
+
